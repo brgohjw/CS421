@@ -1,0 +1,12 @@
+###### Additional libraries downloaded to run our project ##########
+nltk
+subprocess
+collections
+wordcloud
+pyLDAvis
+emoji
+preprocessor
+pydot
+gensim
+lightbgm
+
